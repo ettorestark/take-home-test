@@ -25,7 +25,6 @@ cp frontend/app/.env.example frontend/app/.env
 docker compose up --build -d
 ```
 
-
 ### ⚠️ Considerations
 
 - Commit component needs to be splitted or more components (atoms)
