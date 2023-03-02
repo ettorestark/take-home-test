@@ -31,3 +31,7 @@ docker compose up --build -d
 - useCommit and useBranches hooks needs to be refactorized and their data needs to be parsed on a different file
 - The docker environment is not properly set, I mean, on a production environment is better set another container for nginx and load the frontend as an static website instead of use npm start and run a dev environment
 - The backend server needs to be refactorized  
+
+### Screenshots
+
+![screenshot](https://github.com/ettorestark/take-home-test/blob/main/screenshots/frontend-1.png)
